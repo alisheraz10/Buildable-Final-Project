@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/FinalE-commerceProject"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gpt 2"
+	}
+}
