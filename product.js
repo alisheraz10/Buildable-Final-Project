@@ -1,10 +1,10 @@
 document.addEventListener('DOMContentLoaded', function() {
     
-    const images = [
-        'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop',
-        'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&h=800&fit=crop',
-        'https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&h=800&fit=crop'
-    ];
+    // const images = [
+    //     'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop',
+    //     'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=800&h=800&fit=crop',
+    //     'https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&h=800&fit=crop'
+    // ];
 
     let selectedColor = 'Olive Green';
     let selectedSize = 'Large';
